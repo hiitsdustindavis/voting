@@ -1,0 +1,35 @@
+#adults, #oregon, #national, #minors {
+  display:none;
+}
+
+#olink {
+color: #337ab7;
+font-size: 14px;
+cursor: pointer;
+}
+
+#slink {
+color: #337ab7;
+font-size: 14px;
+cursor: pointer;
+}
+
+#olink:hover {
+text-decoration:underline;
+}
+
+#slink:hover {
+text-decoration:underline;
+}
+
+body {
+  background-image: url("http://www.hd-wallpapersdownload.com/upload/eagle-wallpaper/american-flag-bald-eagle-wallpaper.jpg");
+  color: #4d4d4d;
+}
+
+#adults, #minors {
+  background-color: white;
+  border-radius: 10px;
+  padding: 10px 30px;
+  margin: 50px 30%;
+}
